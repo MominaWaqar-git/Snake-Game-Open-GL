@@ -12,7 +12,7 @@ cell_size = 20
 cols = window_width // cell_size
 rows = window_height // cell_size
 
-BOUNDARY_THICKNESS = 20  # ✅ Updated boundary thickness
+BOUNDARY_THICKNESS = 20  
 
 # ------------------ Game State ------------------
 snake = [[cols//2, rows//2]]
